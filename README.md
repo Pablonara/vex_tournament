@@ -2,6 +2,8 @@
 
 DEV FORK. VISIT THE `vex_tournament/vex_tournament` GITHUB REPOSITORY TO USE STABLE RELEASE
 
+(Mostly) stable dev releases at the dev branch of main repo. Use those if you want a more stable release with better support
+
 A website to manage robotics tournaments, built using Django. The production website is accessible at https://vex.thearchons.xyz/.
 
 # Getting Started
